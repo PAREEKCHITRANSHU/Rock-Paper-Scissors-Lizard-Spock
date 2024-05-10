@@ -22,7 +22,7 @@ To run this game locally, you'll need the following:
 - A code editor for making any changes (e.g., Visual Studio Code, Sublime Text).
 
 ### Installation
-1. Clone the repository to your local machine: `git clone https://github.com/yourusername/rock-paper-scissors-lizard-spock.git`
+1. Clone the repository to your local machine: `git clone https://pareekchitranshu.github.io/Rock-Paper-Scissors-Lizard-Spock/`
 2. Navigate to the project directory: `cd rock-paper-scissors-lizard-spock`
 3. Open the index.html file in your preferred web browser or code editor to view and modify the game.
 4. Make any changes or improvements you'd like to the game.
