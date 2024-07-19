@@ -2,6 +2,8 @@
 Rock Paper Scissors Lizard Spock
 Welcome to the Rock Paper Scissors Lizard Spock game repository! This web-based game is built using HTML, CSS, and JavaScript. It's an expanded version of the classic Rock Paper Scissors game, featuring additional options and rules based on the popular TV show "The Big Bang Theory".
 
+**CLick Here:-** https://pareekchitranshu.github.io/Rock-Paper-Scissors-Lizard-Spock/
+
 ## Demo 
 You can play the game online by visiting the following link: [Rock Paper Scissors Lizard Spock Game](#)
 
